@@ -10,43 +10,7 @@
 
 <hr>
 
-![My Image](resources/img10.png)
-
-<hr>
-
-![My Image](resources/img8.png)
-
-<hr>
-
-![My Image](resources/img4.png)
-
-<hr>
-
-![My Image](resources/img5.png)
-
-<hr>
-
-![My Image](resources/img1.png)
-
-<hr>
-
 ![My Image](resources/img7.png)
-
-<hr>
-
-![My Image](resources/img2.png)
-
-<hr>
-
-![My Image](resources/img9.png)
-
-<hr>
-
-![My Image](resources/img6.png)
-
-<hr>
-
-![My Image](resources/img3.png)
 
 <hr>
 
